@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>DiffBot</title>
+    <item>
+      <title>DiffBot 0.1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 27 Oct 2026 13:45:21 GMT</pubDate>
+      <enclosure url="https://github.com/benmcdowell/DiffBot-releases/releases/download/v0.1.0/DiffBot-0.1.0.zip" sparkle:edSignature="U+r2XUt3xaiFx7CXkTVh+oWaJIELzMXOLKYyzUSw+2L1iVmXmtw6hW23dHPvxV9wkq2uybxyfpl9951saqWuDg==" length="1171922" type="application/octet-stream" />
+    </item>
+    <title>DiffBot Updates</title>
     <link>https://raw.githubusercontent.com/benmcdowell/DiffBot-releases/main/appcast.xml</link>
-    <description>DiffBot updates</description>
+    <description>Signed DiffBot updates for macOS.</description>
     <language>en</language>
   </channel>
 </rss>
