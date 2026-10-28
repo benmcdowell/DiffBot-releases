@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>DiffBot 0.1.5</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 00:07:34 GMT</pubDate>
+      <enclosure url="https://github.com/benmcdowell/DiffBot-releases/releases/download/v0.1.5/DiffBot-0.1.5.zip" sparkle:edSignature="ldu/wWkzprT538RgfgHgxTv55m7zqlxjERmucQL5y/1QaKUPtiBd4Tce2Jr+k6kzwDpkWiV7HrN+ncFabT0MAw==" length="1347794" type="application/octet-stream" />
+    </item>
+    <item>
       <title>DiffBot 0.1.4</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
